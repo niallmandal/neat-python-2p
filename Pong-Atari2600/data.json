@@ -1,0 +1,32 @@
+{
+  "info": {
+    "ball_x": {
+      "address": 177,
+      "type": "|u1"
+    },
+    "ball_y": {
+      "address": 182,
+      "type": "|u1"
+    },
+    "green_y": {
+      "address": 179,
+      "type": "|u1"
+    },
+    "orange": {
+      "address": 149,
+      "type": "|u1"
+    },
+    "orange_y": {
+      "address": 178,
+      "type": "|u1"
+    },
+    "score1": {
+      "address": 141,
+      "type": "|u1"
+    },
+    "score2": {
+      "address": 142,
+      "type": "|u1"
+    }
+  }
+}
