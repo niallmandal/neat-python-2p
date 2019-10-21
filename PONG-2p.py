@@ -1,18 +1,15 @@
 # Import modules
-import gym
 import retro
-import time
-import numpy as np
-
 import neat
-import pickle
-import pandas as pd
+import random
+
+#pickle to save winner variable
+#import pickle
+
 from scipy.spatial import distance
 
 #import custom code for 2p
 from twoplayer import two_genes
-
-import random
 
 #create OpenAI Retro environment
 env = retro.make(game='Pong-Atari2600', players=2)
